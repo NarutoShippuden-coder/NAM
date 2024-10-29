@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.portfolio.controller.PortfolioControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-29T08:22:45" hostname="DESKTOP-4VRAE75" time="1.624">
+  <properties/>
+  <testcase name="testGetPortfoliosByStockNoMatchingPortfolios()" classname="org.example.portfolio.controller.PortfolioControllerTest" time="1.575"/>
+  <testcase name="testGetPortfoliosByStock()" classname="org.example.portfolio.controller.PortfolioControllerTest" time="0.016"/>
+  <testcase name="testGetCashFraction()" classname="org.example.portfolio.controller.PortfolioControllerTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
